@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Day 5\Day 5\bin\Debug\Day 5.exe.config
+C:\Users\Lenovo\source\repos\Day 5\Day 5\bin\Debug\Day 5.exe
+C:\Users\Lenovo\source\repos\Day 5\Day 5\bin\Debug\Day 5.pdb
+C:\Users\Lenovo\source\repos\Day 5\Day 5\obj\Debug\Day 5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Day 5\Day 5\obj\Debug\Day 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Day 5\Day 5\obj\Debug\Day 5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day 5\Day 5\obj\Debug\Day 5.exe
+C:\Users\Lenovo\source\repos\Day 5\Day 5\obj\Debug\Day 5.pdb
+C:\Users\Lenovo\source\repos\Day 5\Day 5\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\Day 5\Day 5\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\source\repos\Day 5\Day 5\obj\Debug\Day 5.csproj.CopyComplete
