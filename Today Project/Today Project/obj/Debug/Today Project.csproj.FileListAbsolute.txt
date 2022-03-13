@@ -1,0 +1,8 @@
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\bin\Debug\Today Project.exe.config
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\bin\Debug\Today Project.exe
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\bin\Debug\Today Project.pdb
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\obj\Debug\Today Project.csproj.AssemblyReference.cache
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\obj\Debug\Today Project.csproj.SuggestedBindingRedirects.cache
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\obj\Debug\Today Project.csproj.CoreCompileInputs.cache
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\obj\Debug\Today Project.exe
+C:\C Sharp\C-Sharp-Examples\Today Project\Today Project\obj\Debug\Today Project.pdb
