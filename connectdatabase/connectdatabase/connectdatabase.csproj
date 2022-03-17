@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ADBDF6DF-97EF-49D1-90BD-6499E82008E2}</ProjectGuid>
+    <ProjectGuid>{A8415F0D-CF6D-4E94-B30B-3E2912504E9B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Today_Project</RootNamespace>
-    <AssemblyName>Today Project</AssemblyName>
+    <RootNamespace>connectdatabase</RootNamespace>
+    <AssemblyName>connectdatabase</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

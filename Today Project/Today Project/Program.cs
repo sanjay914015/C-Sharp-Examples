@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
+
 
 namespace Today_Project
 {
@@ -17,6 +19,7 @@ namespace Today_Project
             string answer = Console.ReadLine();
             ArrayList userList = new ArrayList();
             double MobileNo = 0;
+            Console.Clear();
 
             switch (answer)
             {
@@ -25,6 +28,8 @@ namespace Today_Project
                     {
                         Console.WriteLine("SignIN\nLogIN\nForgotPassword\nExit");
                         string input = Console.ReadLine();
+
+                        Console.Clear();
                         if (input == "SignIN")
                         {
                             Console.WriteLine("Enter Name :");
@@ -105,14 +110,17 @@ namespace Today_Project
                 case "Admin":
                     while (true)
                     {
-                        Console.WriteLine("LogIN\nForgotPassword\nExit");
+                        Console.WriteLine("LogIN\nExit");
                         string input = Console.ReadLine();
+                        Console.Clear();
+
                         if (input == "LogIN")
                         {
                             Console.WriteLine("Enter UserName :");
                             string enterusername = Console.ReadLine();
                             Console.WriteLine("Enter Password :");
                             string enterpassword = Console.ReadLine();
+                            Console.Clear();
 
                             if (enterusername == "Admin" && enterpassword == "Admin")
                             {
@@ -123,34 +131,30 @@ namespace Today_Project
                                     int asw = Convert.ToInt32(Console.ReadLine());
                                     if (asw == 1)
                                     {
-                                        Console.WriteLine("List OF User");
                                         Console.Clear();
+                                        Console.WriteLine("List OF User");
                                         PrintLine();
                                         PrintRow("ID", "From Port", "To Port", "Request");
                                         PrintLine();
                                         PrintRow("", "", "", "");
                                         PrintRow("", "", "", "");
                                         PrintLine();
-                                        Console.ReadLine();
-
                                         continue;
                                     }
                                     else
                                     {
+                                        Console.Clear();
                                         break;
                                     }
                                 }
                             }
                             else
                             {
+                                Console.Clear();
                                 Console.WriteLine("Please Enter Valid Username and Password ::");
                                 continue;
                             }
 
-
-                        }
-                        else if (input == "ForgotPassword")
-                        {
 
                         }
                         else if (input == "Exit")
