@@ -1,0 +1,8 @@
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\bin\Debug\connectdatabase.exe.config
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\bin\Debug\connectdatabase.exe
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\bin\Debug\connectdatabase.pdb
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\obj\Debug\connectdatabase.csproj.AssemblyReference.cache
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\obj\Debug\connectdatabase.csproj.SuggestedBindingRedirects.cache
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\obj\Debug\connectdatabase.csproj.CoreCompileInputs.cache
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\obj\Debug\connectdatabase.exe
+C:\C Sharp\C-Sharp-Examples\connectdatabase\connectdatabase\obj\Debug\connectdatabase.pdb
