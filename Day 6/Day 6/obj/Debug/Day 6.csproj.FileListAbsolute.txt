@@ -6,3 +6,6 @@ C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\obj\Debug\Day 6.csproj.SuggestedBindingR
 C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\obj\Debug\Day 6.csproj.CoreCompileInputs.cache
 C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\obj\Debug\Day 6.exe
 C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\obj\Debug\Day 6.pdb
+C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\bin\Debug\OopFactory.X12.dll
+C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\bin\Debug\OopFactory.X12.xml
+C:\C Sharp\C-Sharp-Examples\Day 6\Day 6\obj\Debug\Day 6.csproj.CopyComplete

@@ -1,0 +1,26 @@
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\appsettings.Development.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\appsettings.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\asp.net web app.staticwebassets.runtime.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\asp.net web app.exe
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\asp.net web app.deps.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\asp.net web app.runtimeconfig.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\asp.net web app.dll
+C:\C Sharp\C-Sharp-Examples\asp.net web app\bin\Debug\net6.0\asp.net web app.pdb
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.csproj.AssemblyReference.cache
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.AssemblyInfoInputs.cache
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.AssemblyInfo.cs
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.csproj.CoreCompileInputs.cache
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.MvcApplicationPartsAssemblyInfo.cache
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.RazorAssemblyInfo.cache
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.RazorAssemblyInfo.cs
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\staticwebassets.build.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\staticwebassets.development.json
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\scopedcss\bundle\asp.net web app.styles.css
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\scopedcss\projectbundle\asp.net web app.bundle.scp.css
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.dll
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\refint\asp.net web app.dll
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.pdb
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\asp.net web app.genruntimeconfig.cache
+C:\C Sharp\C-Sharp-Examples\asp.net web app\obj\Debug\net6.0\ref\asp.net web app.dll

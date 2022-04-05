@@ -1,0 +1,8 @@
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\bin\Debug\Task 2 18 3.exe.config
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\bin\Debug\Task 2 18 3.exe
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\bin\Debug\Task 2 18 3.pdb
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\obj\Debug\Task 2 18 3.csproj.AssemblyReference.cache
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\obj\Debug\Task 2 18 3.csproj.SuggestedBindingRedirects.cache
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\obj\Debug\Task 2 18 3.csproj.CoreCompileInputs.cache
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\obj\Debug\Task 2 18 3.exe
+C:\C Sharp\C-Sharp-Examples\Task 2 18 3\Task 2 18 3\obj\Debug\Task 2 18 3.pdb

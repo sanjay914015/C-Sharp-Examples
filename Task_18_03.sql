@@ -32,3 +32,9 @@ alter table products drop column product_sell;
 
 select AVG(product_q) from products;
 
+
+create table EDI(ISA varchar(50) not null, GS varchar(50) not null, ST varchar(50) not null, BIG varchar(50) not null, N1 varchar(50) not null, N2 varchar(50) not null, N3 varchar(50) not null, N4 varchar(50) not null);
+
+Drop table EDI;
+select * from EDI;
+create table EDI(id int primary key identity, ISA varchar(1000), GS varchar(1000) , ST varchar(1000), BIG varchar(1000), N1 varchar(1000), N2 varchar(1000), N3 varchar(1000), N4 varchar(1000));

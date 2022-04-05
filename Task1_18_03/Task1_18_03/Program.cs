@@ -17,7 +17,7 @@ namespace Task1_18_03
             while (true)
             {
 
-                Console.WriteLine("1. Add Product \n2. sell product\n3. AVG\n4. Exit ");
+                Console.WriteLine("1. Add Product \n2. sell product\n3. AVG\n4. Update Product\n5. Exit ");
                 int asw = Convert.ToInt32(Console.ReadLine());
                 if(asw == 1)
                 {
@@ -118,7 +118,79 @@ namespace Task1_18_03
                 }
                 else if(asw ==4)
                 {
-                    break ;
+                    Console.WriteLine("<----------Product Data------------>");
+                    SqlDataAdapter sql1 = new SqlDataAdapter("select * from products", sqlcon);
+                    DataTable dtbl1 = new DataTable();
+                    sql1.Fill(dtbl1);
+                    foreach (DataRow dataRow in dtbl1.Rows)
+                    {
+                        Console.WriteLine(dataRow["id"] + "   " + dataRow["product_name"] + "   " + dataRow["product_type"] + "   " + dataRow["product_q"] + "   "+dataRow["price"]);
+                    }
+                    int flag = 0;
+                    Console.WriteLine("Enter ID Which you want Update::");
+                    int id = Convert.ToInt32(Console.ReadLine());
+                    foreach (DataRow dataRow in dtbl1.Rows)
+                    {
+                        if(id == Convert.ToInt32(dataRow["id"]))
+                        {
+                            Console.Write("name\ntype\nquantity\nprice");
+                            string aswer = Console.ReadLine();
+                            switch(aswer)
+                            {
+                                case "name":
+                                    Console.WriteLine("Enter Product Name:");
+                                    string name = Console.ReadLine();
+                                    SqlDataAdapter sqlmale = new SqlDataAdapter("update products set product_name = '" + name + "' where id = ('" + id + "')", sqlcon);
+                                    DataTable dtbl = new DataTable();
+                                    sqlmale.Fill(dtbl);
+                                    Console.ReadLine();
+                                    break;
+                                case "type":
+                                    Console.WriteLine("Enter Product Name:");
+                                    string type = Console.ReadLine();
+                                    SqlDataAdapter sqlmale1 = new SqlDataAdapter("update products set product_type = '" + type + "' where id = ('" + id + "')", sqlcon);
+                                    DataTable dtbl2 = new DataTable();
+                                    sqlmale1.Fill(dtbl2);
+                                    Console.ReadLine();
+                                    break;
+                                case "quantity":
+                                    Console.WriteLine("Enter Product Quantity:");
+                                    int quantity=Convert.ToInt32(Console.ReadLine());
+                                    SqlDataAdapter sqlmale2 = new SqlDataAdapter("update products set product_q = '" + quantity + "' where id = ('" + id + "')", sqlcon);
+                                    DataTable dtbl3 = new DataTable();
+                                    sqlmale2.Fill(dtbl3);
+                                    Console.ReadLine();
+                                    break;
+                                case "price":
+                                    Console.WriteLine("Enter Product Name:");
+                                    int price= Convert.ToInt32(Console.ReadLine());
+                                    SqlDataAdapter sqlmale3 = new SqlDataAdapter("update products set price = '" + price + "' where id = ('" + id + "')", sqlcon);
+                                    DataTable dtbl4 = new DataTable();
+                                    sqlmale3.Fill(dtbl4);
+                                    Console.ReadLine();
+                                    break;
+                                default:
+                                    break;
+
+                            }
+
+                        }
+                        else
+                        {
+                            Console.WriteLine("Entered ID doesn't exists");
+                            flag = 1;
+                        }
+                    }
+                    if(flag == 1)
+                    {
+                        continue;
+                    }
+
+
+                }
+                else if(asw ==5)
+                {
+                    break;
                 }
                 else
                 {
